@@ -1,0 +1,20 @@
+{
+  "title": "Get Map Details",
+  "snippet": "Use generative AI to create descriptions of Web Maps",
+  "description": "Use generative AI to create descriptions of Web Maps using a screenshot of the map, along with the title and snippet.",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": "VmebHbQXcDv0zuin",
+  "authMode": "auto",
+  "apiKey": null,
+  "group": "",
+  "webmap": "b7f6c1523f72438c872109672af71d74",
+  "webscene": "",
+  "viewProps": {
+    "alphaCompositingEnabled": true
+  },
+  "logResults": false,
+  "container": "view-container",
+  "shareable": [
+    "logResults"
+  ]
+}
